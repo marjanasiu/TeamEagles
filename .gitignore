@@ -1,1 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
+Facebook/src/main/resources/
+Facebook/target/
+Generic/target/generated-sources/
+Google/src/main/resources/
+Google/target/generated-sources/
+Google/target/generated-test-sources/

@@ -2,14 +2,15 @@ package home;
 
 import common.CommonAPI;
 import org.testng.annotations.Test;
-import signin.Homepage;
+import signin.HomePage;
+
 
 public class HomeTest extends CommonAPI {
 
     @Test
     public void testUserCanLogInSuccessfully() {
         driver.get("https://gmail.com");
-        Homepage hp = new Homepage();
+        HomePage hp = new HomePage();
         hp.logIn("abc@gmail.com", "abc123");
     }
 

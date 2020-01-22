@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="871a1dca-c1d5-42cf-a2dd-5e31c065eabb" name="Default Changelist" comment="" />
+    <list default="true" id="871a1dca-c1d5-42cf-a2dd-5e31c065eabb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Facebook/src/main/java/signin/Homepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facebook/src/test/java/home/HomeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/src/main/java/signin/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Google/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/src/main/java/signin/Homepage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/src/test/java/home/HomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Google/src/test/java/home/HomeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/target/classes/signin/Homepage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/target/test-classes/GoogleRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/resources/Facebookrunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Google/target/test-classes/home/HomeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/src/test/resources/Amazontestrunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,33 +48,58 @@
     </option>
   </component>
   <component name="ProjectId" id="1WgSWAbtMeAbs5VyPqxynoHHzv7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/java/driver" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Facebook/src/test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.11612176" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java\driver" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\firoz_000\Desktop\ajframework\Facebook\src\test" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java\driver" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.HomeTest">
+  <component name="RunManager" selected="TestNG.HomeTest.testUserCanLogInSuccessfully">
     <configuration name="C:/Users/firoz_000/Desktop/ajframework/Google/src/test/resources/GoogleRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Google" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Google/src/test/resources/GoogleRunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.HomeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -100,8 +143,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomeTest" />
         <item itemvalue="TestNG.HomeTest.testUserCanLogInSuccessfully" />
+        <item itemvalue="TestNG.HomeTest (1)" />
+        <item itemvalue="TestNG.HomeTest" />
         <item itemvalue="TestNG.C:/Users/firoz_000/Desktop/ajframework/Google/src/test/resources/GoogleRunner.xml" />
       </list>
     </recent_temporary>
@@ -131,27 +175,30 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="550" y="21" key="#Project_Structure" timestamp="1579574889164">
+    <state x="550" y="21" key="#Project_Structure" timestamp="1579648358579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579574889163" />
-    <state width="569" height="154" key="GridCell.Tab.0.bottom" timestamp="1579577013839">
+    <state x="550" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579648358579" />
+    <state width="1322" height="225" key="GridCell.Tab.0.bottom" timestamp="1579660711105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="569" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579577013839" />
-    <state width="569" height="154" key="GridCell.Tab.0.center" timestamp="1579577013838">
+    <state width="1322" height="225" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579660711105" />
+    <state width="1322" height="225" key="GridCell.Tab.0.center" timestamp="1579660711105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="569" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579577013838" />
-    <state width="569" height="154" key="GridCell.Tab.0.left" timestamp="1579577013838">
+    <state width="1322" height="225" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579660711105" />
+    <state width="1322" height="225" key="GridCell.Tab.0.left" timestamp="1579660711104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="569" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579577013838" />
-    <state width="569" height="154" key="GridCell.Tab.0.right" timestamp="1579577013838">
+    <state width="1322" height="225" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579660711104" />
+    <state width="1322" height="225" key="GridCell.Tab.0.right" timestamp="1579660711105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="569" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579577013838" />
+    <state width="1322" height="225" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579660711105" />
     <state x="126" y="0" width="916" height="728" key="SettingsEditor" timestamp="1579576673293">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,9 +207,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="845" y="100" width="429" height="543" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1579577458208" />
-    <state x="470" y="65" width="896" height="612" key="new project wizard" timestamp="1579577031381">
+    <state x="470" y="65" width="896" height="612" key="new project wizard" timestamp="1579579165980">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="470" y="65" width="896" height="612" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579577031381" />
+    <state x="470" y="65" width="896" height="612" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579579165980" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
