@@ -5,3 +5,6 @@ Generic/target/generated-sources/
 Google/src/main/resources/
 Google/target/generated-sources/
 Google/target/generated-test-sources/
+Amazon/src/main/resources/
+Amazon/target/
+/Generic/
