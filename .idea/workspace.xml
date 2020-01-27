@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871a1dca-c1d5-42cf-a2dd-5e31c065eabb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/src/main/java/signin/Homepage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/src/test/java/home/HomeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/src/test/resources/Facebookrunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/src/main/java/signin/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/src/test/java/home/HomeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/src/test/resources/GoogleRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/target/classes/signin/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/target/test-classes/GoogleRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Google/target/test-classes/home/HomeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajframework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TeamEagles.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,24 +44,25 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/java/driver" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.11612176" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\firoz_000\Desktop\ajframework" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework\Facebook\src\test" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java\driver" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\firoz_000\Desktop" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="home" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\firoz_000\Desktop" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java\driver" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework\Facebook\src\test" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java\driver" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.Hometest">
@@ -261,10 +243,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579744549308" />
-    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579671155608">
+    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580093801131">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579671155608" />
+    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580093801131" />
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1579743758039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
