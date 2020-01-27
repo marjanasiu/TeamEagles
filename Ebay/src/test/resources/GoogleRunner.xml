@@ -5,7 +5,7 @@
 
     <test name = "Gmail Home">
         <classes>
-            <class name="home.HomeTest"/>
+            <class name="home.Home"/>
         </classes>
     </test>
 

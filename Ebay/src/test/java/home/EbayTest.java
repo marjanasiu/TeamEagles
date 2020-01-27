@@ -5,13 +5,13 @@ import org.testng.annotations.Test;
 import signin.HomePage;
 
 
-public class HomeTest extends CommonAPI {
+public class Home extends CommonAPI {
 
     @Test
     public void testUserCanLogInSuccessfully() {
         driver.get("https://gmail.com");
         HomePage hp = new HomePage();
-        hp.logIn("abc@gmail.com", "abc123");
+        hp.logIn("firoz11218@gmail.com", "abc123");
     }
 
 }
