@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871a1dca-c1d5-42cf-a2dd-5e31c065eabb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/driver/geckodriver-v0.26.0-macos.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/driver/geckodriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazonWebStore/src/test/java/AmazonWeb/AmazonWebTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/src/test/java/AmazonWeb/AmazonWebTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,19 +51,19 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\firoz_000\Desktop" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java\driver" />
+      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java" />
+      <recent name="C:\Users\firoz_000\Desktop\TeamEagles" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework\Facebook\src\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="home" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java" />
-      <recent name="C:\Users\firoz_000\Desktop\TeamEagles" />
-      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java\driver" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework\Facebook\src\test" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\firoz_000\Desktop" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.AmazonWebTest.search">
