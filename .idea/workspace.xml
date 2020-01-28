@@ -2,17 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871a1dca-c1d5-42cf-a2dd-5e31c065eabb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AmazonWebStore/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonWebStore/src/main/java/AmazonWeb/AmazonWebstore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonWebStore/src/test/java/AmazonWeb/AmazonWebTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonWebStore/src/test/resources/AmazonWebStoreRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/AmazonWebStore-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/classes/AmazonWeb/AmazonWebstore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/AmazonWeb.AmazonWebTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/TEST-AmazonWeb.AmazonWebTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/test-classes/AmazonWeb/AmazonWebTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/test-classes/AmazonWebStoreRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/Facebook-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/classes/Fbhome/Fbhome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/TEST-fbtest.FbTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/fbtest.FbTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/test-classes/FacebookRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/test-classes/fbtest/FbTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
