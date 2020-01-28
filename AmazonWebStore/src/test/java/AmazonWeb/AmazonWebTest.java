@@ -13,8 +13,7 @@ public class AmazonWebTest extends CommonAPI {
         clickOnElement("//*[@id=\"nav-search\"]/form/div[2]/div/input");
         Thread.sleep(2000);
     }
-}
-   /* @Test
+ @Test
     public void search() {
         driver.get("https://amazon.com");
         AmazonWebstore hp = new AmazonWebstore();
@@ -29,13 +28,6 @@ public class AmazonWebTest extends CommonAPI {
 
     }
 
-    @Test
-    public void amazonSearchEngineTest() {
-        driver.get("https://amazon.com");
-        AmazonWebstore hp = new AmazonWebstore();
-       hp.searchTest();
-
-    }
 
 
-}*/
+}
