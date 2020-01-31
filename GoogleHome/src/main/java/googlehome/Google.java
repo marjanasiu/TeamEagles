@@ -54,5 +54,9 @@ public class Google extends CommonAPI {
         this.driver.findElement(By.xpath("//*[@id=\"gbwa\"]/div/a")).click();
         this.driver.findElement(By.xpath("//*[@id=\"yDmH0d\"]/c-wiz/div/div/c-wiz/div/div/ul[1]/li[6]/a/span[1]")).click();
     }
+    public void goToCareer() {
+        this.driver.findElement(By.xpath("//*[@id=\"navFooter\"]/div[1]/div/div[1]/ul/li[1]/a")).click();
+    }
+
 }
 

@@ -80,4 +80,19 @@ public class AmazonWebTest extends CommonAPI {
         AmazonWebstore hp = new AmazonWebstore();
         hp.goToTodaysDeal();
     }
+
+    @Test
+    public void goToHelpPage() {
+        driver.get("https://amazon.com");
+        AmazonWebstore hp = new AmazonWebstore();
+        hp.goToHelp();
+    }
+
+    @Test
+    public void searchTv(String tv) {
+        driver.get("https://amazon.com");
+        AmazonWebstore hp = new AmazonWebstore();
+        hp.searchTvs();
+    }
+    
 }
