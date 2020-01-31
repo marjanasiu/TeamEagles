@@ -10,6 +10,7 @@
         <module name="Fbook" />
         <module name="facebook" />
         <module name="AmazonWebStore" />
+        <module name="GoogleHome" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">

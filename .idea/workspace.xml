@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871a1dca-c1d5-42cf-a2dd-5e31c065eabb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GoogleHome/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleHome/src/main/java/googlehome/Google.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleHome/src/test/java/googlehometest/GoogleHomeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/src/main/java/AmazonWeb/AmazonWebstore.java" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/src/main/java/AmazonWeb/AmazonWebstore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/src/test/java/AmazonWeb/AmazonWebTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/src/test/java/AmazonWeb/AmazonWebTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/classes/AmazonWeb/AmazonWebstore.class" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/target/classes/AmazonWeb/AmazonWebstore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/test-classes/AmazonWeb/AmazonWebTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/target/test-classes/AmazonWeb/AmazonWebTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,29 +53,30 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/java/driver" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.11612176" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="project.structure.side.proportion" value="0.30890054" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java\driver" />
-      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java" />
-      <recent name="C:\Users\firoz_000\Desktop\TeamEagles" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework\Facebook\src\test" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="home" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\firoz_000\Desktop" />
       <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\firoz_000\Desktop\TeamEagles" />
+      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java\driver" />
+      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework" />
+      <recent name="C:\Users\firoz_000\Desktop\ajframework\Facebook\src\test" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.AmazonWebTest.search">
+  <component name="RunManager" selected="TestNG.GoogleHomeTest.gotoNewsPage">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="Facebook" />
       <option name="VM_PARAMETERS" />
@@ -114,7 +124,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmazonWebTest.amazonSearchEngineTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AmazonWebTest.clickTodaysDeal" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AmazonWebStore" />
       <extension name="coverage">
         <pattern>
@@ -124,7 +134,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="AmazonWeb" />
       <option name="MAIN_CLASS_NAME" value="AmazonWeb.AmazonWebTest" />
-      <option name="METHOD_NAME" value="amazonSearchEngineTest" />
+      <option name="METHOD_NAME" value="clickTodaysDeal" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,7 +142,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmazonWebTest.clickSignIn" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AmazonWebTest.goToCustomerService" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AmazonWebStore" />
       <extension name="coverage">
         <pattern>
@@ -142,7 +152,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="AmazonWeb" />
       <option name="MAIN_CLASS_NAME" value="AmazonWeb.AmazonWebTest" />
-      <option name="METHOD_NAME" value="clickSignIn" />
+      <option name="METHOD_NAME" value="goToCustomerService" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonWebTest.login3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonWebStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmazonWeb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AmazonWeb" />
+      <option name="MAIN_CLASS_NAME" value="AmazonWeb.AmazonWebTest" />
+      <option name="METHOD_NAME" value="login3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -168,27 +196,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/firoz_000/Desktop/TeamEagles/AmazonWebStore/src/test/resources/AmazonWebStoreRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AmazonWebStore" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/AmazonWebStore/src/test/resources/AmazonWebStoreRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hometest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
+    <configuration name="GoogleHomeTest.gotoNewsPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GoogleHome" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home.HomeTest" />
+          <option name="PATTERN" value="googlehometest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.Hometest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="googlehometest" />
+      <option name="MAIN_CLASS_NAME" value="googlehometest.GoogleHomeTest" />
+      <option name="METHOD_NAME" value="gotoNewsPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -197,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GoogleHomeTest.gotoNewsPage" />
+        <item itemvalue="TestNG.AmazonWebTest.clickTodaysDeal" />
         <item itemvalue="TestNG.AmazonWebTest.search" />
-        <item itemvalue="TestNG.AmazonWebTest.amazonSearchEngineTest" />
-        <item itemvalue="TestNG.C:/Users/firoz_000/Desktop/TeamEagles/AmazonWebStore/src/test/resources/AmazonWebStoreRunner.xml" />
-        <item itemvalue="TestNG.AmazonWebTest.clickSignIn" />
-        <item itemvalue="TestNG.Hometest" />
+        <item itemvalue="TestNG.AmazonWebTest.login3" />
+        <item itemvalue="TestNG.AmazonWebTest.goToCustomerService" />
       </list>
     </recent_temporary>
   </component>
@@ -234,42 +253,42 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="24" key="#Project_Structure" timestamp="1580098047797">
+    <state x="463" y="24" key="#Project_Structure" timestamp="1580501757556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580098047797" />
+    <state x="463" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580501757556" />
     <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580099645225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580099645225" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1580094113941">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1580257349676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580094113941" />
-    <state width="1322" height="152" key="GridCell.Tab.0.bottom" timestamp="1580201854113">
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580257349676" />
+    <state width="1322" height="239" key="GridCell.Tab.0.bottom" timestamp="1580506083581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580201854113" />
-    <state width="1322" height="152" key="GridCell.Tab.0.center" timestamp="1580201854113">
+    <state width="1322" height="239" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580506083581" />
+    <state width="1322" height="239" key="GridCell.Tab.0.center" timestamp="1580506083581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580201854113" />
-    <state width="1322" height="152" key="GridCell.Tab.0.left" timestamp="1580201854113">
+    <state width="1322" height="239" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580506083581" />
+    <state width="1322" height="239" key="GridCell.Tab.0.left" timestamp="1580506083581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580201854113" />
-    <state width="1322" height="152" key="GridCell.Tab.0.right" timestamp="1580201854113">
+    <state width="1322" height="239" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580506083581" />
+    <state width="1322" height="239" key="GridCell.Tab.0.right" timestamp="1580506083581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580201854113" />
+    <state width="1322" height="239" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580506083581" />
     <state x="213" y="17" key="Maven.ArtifactSearchDialog" timestamp="1580198087132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="17" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1580198087132" />
-    <state x="126" y="0" width="916" height="728" key="SettingsEditor" timestamp="1580197856174">
+    <state x="355" y="0" width="916" height="728" key="SettingsEditor" timestamp="1580261959021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="126" y="0" width="916" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580197856174" />
+    <state x="355" y="0" width="916" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580261959021" />
     <state x="173" y="78" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579746984332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -278,13 +297,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="845" y="100" width="429" height="543" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1579577458208" />
-    <state x="375" y="0" width="725" height="728" key="new project wizard" timestamp="1580097734429">
+    <state x="375" y="0" width="725" height="728" key="new project wizard" timestamp="1580256603612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="0" width="725" height="728" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580097734429" />
-    <state x="972" y="755" width="672" height="678" key="search.everywhere.popup" timestamp="1579665345795">
+    <state x="375" y="0" width="725" height="728" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580256603612" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580502956304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="972" y="755" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579665345795" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580502956304" />
   </component>
 </project>
