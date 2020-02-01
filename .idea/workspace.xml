@@ -2,13 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871a1dca-c1d5-42cf-a2dd-5e31c065eabb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fbook/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fbook/src/main/java/Fbhome/Fbhome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fbook/src/test/Resources/FacebookRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fbook/src/test/java/fbtest/FbTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/src/main/java/AmazonWeb/AmazonWebstore.java" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/src/main/java/AmazonWeb/AmazonWebstore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/src/test/java/AmazonWeb/AmazonWebTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/src/test/java/AmazonWeb/AmazonWebTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/classes/AmazonWeb/AmazonWebstore.class" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/target/classes/AmazonWeb/AmazonWebstore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmazonWebStore/target/test-classes/AmazonWeb/AmazonWebTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/AmazonWebStore/target/test-classes/AmazonWeb/AmazonWebTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/classes/Fbhome/Fbhome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fbook/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Reporting/ApplicationLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Reporting/ApplicationLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Reporting/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Reporting/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Reporting/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Reporting/ExtentTestManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/Reporting/TestLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/Reporting/TestLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoogleHome/src/main/java/googlehome/Google.java" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleHome/src/main/java/googlehome/Google.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoogleHome/src/test/java/googlehometest/GoogleHomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleHome/src/test/java/googlehometest/GoogleHomeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoogleHome/target/classes/googlehome/Google.class" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleHome/target/classes/googlehome/Google.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoogleHome/target/test-classes/googlehometest/GoogleHomeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleHome/target/test-classes/googlehometest/GoogleHomeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +68,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.11612176" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="project.structure.side.proportion" value="0.30890054" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -67,12 +86,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\firoz_000\Desktop\TeamEagles" />
       <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java\driver" />
+      <recent name="C:\Users\firoz_000\Desktop\TeamEagles\Generic\src\main\java" />
       <recent name="C:\Users\firoz_000\Desktop\ajframework" />
       <recent name="C:\Users\firoz_000\Desktop\ajframework\Facebook\src\test" />
-      <recent name="C:\Users\firoz_000\Desktop\ajframework\Generic\src\main\java\driver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Hometest">
+  <component name="RunManager" selected="TestNG.AmazonWebTest.searchTv">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="Facebook" />
       <option name="VM_PARAMETERS" />
@@ -120,51 +139,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Home" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Google" />
+    <configuration name="AmazonWebTest.clickTodaysDeal" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonWebStore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home.*" />
+          <option name="PATTERN" value="AmazonWeb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.Home" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Google" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home.HomeTest" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.HomeTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Home.testUserCanLogInSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Google" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="home.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.Home" />
-      <option name="METHOD_NAME" value="testUserCanLogInSuccessfully" />
+      <option name="PACKAGE_NAME" value="AmazonWeb" />
+      <option name="MAIN_CLASS_NAME" value="AmazonWeb.AmazonWebTest" />
+      <option name="METHOD_NAME" value="clickTodaysDeal" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -172,34 +157,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hometest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
+    <configuration name="AmazonWebTest.goToHelpPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonWebStore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home.HomeTest" />
+          <option name="PATTERN" value="AmazonWeb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.Hometest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="AmazonWeb" />
+      <option name="MAIN_CLASS_NAME" value="AmazonWeb.AmazonWebTest" />
+      <option name="METHOD_NAME" value="goToHelpPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hometest.userCanSearch" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
+    <configuration name="AmazonWebTest.searchTv" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AmazonWebStore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="home.HomeTest" />
+          <option name="PATTERN" value="AmazonWeb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.Hometest" />
-      <option name="METHOD_NAME" value="userCanSearch" />
+      <option name="PACKAGE_NAME" value="AmazonWeb" />
+      <option name="MAIN_CLASS_NAME" value="AmazonWeb.AmazonWebTest" />
+      <option name="METHOD_NAME" value="searchTv" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleHomeTest.careerPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GoogleHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googlehometest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googlehometest" />
+      <option name="MAIN_CLASS_NAME" value="googlehometest.GoogleHomeTest" />
+      <option name="METHOD_NAME" value="careerPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleHomeTest.gotoNewsPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GoogleHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googlehometest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googlehometest" />
+      <option name="MAIN_CLASS_NAME" value="googlehometest.GoogleHomeTest" />
+      <option name="METHOD_NAME" value="gotoNewsPage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -209,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Hometest" />
-        <item itemvalue="TestNG.Hometest.userCanSearch" />
-        <item itemvalue="TestNG.Home" />
-        <item itemvalue="TestNG.Home.testUserCanLogInSuccessfully" />
-        <item itemvalue="TestNG.HomeTest" />
+        <item itemvalue="TestNG.AmazonWebTest.searchTv" />
+        <item itemvalue="TestNG.AmazonWebTest.goToHelpPage" />
+        <item itemvalue="TestNG.GoogleHomeTest.careerPage" />
+        <item itemvalue="TestNG.GoogleHomeTest.gotoNewsPage" />
+        <item itemvalue="TestNG.AmazonWebTest.clickTodaysDeal" />
       </list>
     </recent_temporary>
   </component>
@@ -246,38 +268,42 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="24" key="#Project_Structure" timestamp="1579744549308">
+    <state x="463" y="24" key="#Project_Structure" timestamp="1580501757556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579744549308" />
-    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580094291214">
+    <state x="463" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580501757556" />
+    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580099645225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580094291214" />
-    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1580094113941">
+    <state x="422" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580099645225" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1580257349676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580094113941" />
-    <state width="621" height="119" key="GridCell.Tab.0.bottom" timestamp="1580096262104">
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580257349676" />
+    <state width="1322" height="2" key="GridCell.Tab.0.bottom" timestamp="1580511175667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="621" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580096262104" />
-    <state width="621" height="119" key="GridCell.Tab.0.center" timestamp="1580096262104">
+    <state width="1322" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580511175667" />
+    <state width="1322" height="2" key="GridCell.Tab.0.center" timestamp="1580511175667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="621" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580096262104" />
-    <state width="621" height="119" key="GridCell.Tab.0.left" timestamp="1580096262104">
+    <state width="1322" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580511175667" />
+    <state width="1322" height="2" key="GridCell.Tab.0.left" timestamp="1580511175667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="621" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580096262104" />
-    <state width="621" height="119" key="GridCell.Tab.0.right" timestamp="1580096262104">
+    <state width="1322" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580511175667" />
+    <state width="1322" height="2" key="GridCell.Tab.0.right" timestamp="1580511175667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="621" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580096262104" />
-    <state x="126" y="0" width="916" height="728" key="SettingsEditor" timestamp="1580094287541">
+    <state width="1322" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580511175667" />
+    <state x="213" y="17" key="Maven.ArtifactSearchDialog" timestamp="1580198087132">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="126" y="0" width="916" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580094287541" />
+    <state x="213" y="17" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1580198087132" />
+    <state x="355" y="0" width="916" height="728" key="SettingsEditor" timestamp="1580261959021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="355" y="0" width="916" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580261959021" />
     <state x="173" y="78" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579746984332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -286,13 +312,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="845" y="100" width="429" height="543" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1579577458208" />
-    <state x="375" y="0" width="725" height="728" key="new project wizard" timestamp="1580095918545">
+    <state x="375" y="0" width="725" height="728" key="new project wizard" timestamp="1580256603612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="0" width="725" height="728" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580095918545" />
-    <state x="972" y="755" width="672" height="678" key="search.everywhere.popup" timestamp="1579665345795">
+    <state x="375" y="0" width="725" height="728" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580256603612" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580502956304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="972" y="755" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579665345795" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580502956304" />
   </component>
 </project>
